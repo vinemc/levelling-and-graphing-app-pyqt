@@ -1,0 +1,8 @@
+PyQt6
+matplotlib
+numpy
+openpyxl
+fpdf
+qrcode
+PyPDF2
+scipy
