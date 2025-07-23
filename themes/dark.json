@@ -1,0 +1,8 @@
+{
+  "theme": "Light",
+  "graph_line_color": "royalblue",
+  "graph_marker_color": "orange",
+  "comparison_line_color": "green",
+  "label_color": "darkred",
+  "grade_slope_label_color": "blue"
+}
